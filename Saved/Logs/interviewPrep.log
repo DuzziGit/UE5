@@ -2131,3 +2131,898 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.07.07-19.05.12:701][ 29]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
 [2023.07.07-19.05.12:701][ 29]PIE: Server logged in
 [2023.07.07-19.05.12:702][ 29]PIE: Play in editor total start time 0.048 seconds.
+[2023.07.07-19.06.05:488][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-19.06.05:488][116]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-19.06.05:488][116]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-19.06.05:488][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-19.06.05:497][116]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-19.06.05:508][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-19.06.05:511][116]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.07-19.06.05:511][116]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-19.06.05:512][116]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-19.06.05:514][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-19.06.05:516][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.07.07-19.06.05:567][118]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.07.07-19.06.06:643][244]LogEditorViewport: Clicking on Actor (context menu): PostProcessVolume (PostProcessVolume)
+[2023.07.07-19.06.07:245][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2023.07.07-19.10.32:683][882]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2023.07.07-19.12.04:232][856]LogEditorViewport: Clicking on Actor (context menu): LightmassImportanceVolume (LightmassImportanceVolume)
+[2023.07.07-19.18.59:636][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.07.07-19.19.00:069][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2023.07.07-19.19.06:936][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2023.07.07-19.19.07:845][ 75]Cmd: DUPLICATE
+[2023.07.07-19.19.07:845][ 75]Cmd: ACTOR DUPLICATE
+[2023.07.07-19.19.18:936][391]Cmd: TRANSACTION UNDO
+[2023.07.07-19.19.18:936][391]LogEditorTransaction: Undo Scale Actors
+[2023.07.07-19.19.33:276][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2023.07.07-19.19.35:280][314]Cmd: DUPLICATE
+[2023.07.07-19.19.35:280][314]Cmd: ACTOR DUPLICATE
+[2023.07.07-19.19.46:324][626]Cmd: DUPLICATE
+[2023.07.07-19.19.46:324][626]Cmd: ACTOR DUPLICATE
+[2023.07.07-19.20.04:128][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2023.07.07-19.20.06:335][  7]Cmd: TRANSACTION UNDO
+[2023.07.07-19.20.06:335][  7]LogEditorTransaction: Undo Move Actors
+[2023.07.07-19.20.07:205][ 78]Cmd: DUPLICATE
+[2023.07.07-19.20.07:205][ 78]Cmd: ACTOR DUPLICATE
+[2023.07.07-19.20.21:253][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2023.07.07-19.20.22:120][838]Cmd: DUPLICATE
+[2023.07.07-19.20.22:120][838]Cmd: ACTOR DUPLICATE
+[2023.07.07-19.20.27:275][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2023.07.07-19.20.41:283][110]Cmd: TRANSACTION UNDO
+[2023.07.07-19.20.41:283][110]LogEditorTransaction: Undo Move Actors
+[2023.07.07-19.20.43:511][347]Cmd: TRANSACTION UNDO
+[2023.07.07-19.20.43:511][347]LogEditorTransaction: Undo Move Actors
+[2023.07.07-19.20.48:032][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2023.07.07-19.20.48:131][888]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2023.07.07-19.20.48:493][929]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.07-19.20.49:136][  6]Cmd: DUPLICATE
+[2023.07.07-19.20.49:136][  6]Cmd: ACTOR DUPLICATE
+[2023.07.07-19.20.54:364][613]Cmd: DUPLICATE
+[2023.07.07-19.20.54:364][613]Cmd: ACTOR DUPLICATE
+[2023.07.07-19.20.55:270][713]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent2)
+[2023.07.07-19.21.00:521][341]Cmd: TRANSACTION UNDO
+[2023.07.07-19.21.00:521][341]LogEditorTransaction: Undo Rotate Components
+[2023.07.07-19.21.18:172][409]Cmd: DUPLICATE
+[2023.07.07-19.21.18:172][409]Cmd: ACTOR DUPLICATE
+[2023.07.07-19.21.29:628][777]Cmd: TRANSACTION UNDO
+[2023.07.07-19.21.29:628][777]LogEditorTransaction: Undo Scale Components
+[2023.07.07-19.21.31:356][953]Cmd: TRANSACTION UNDO
+[2023.07.07-19.21.31:356][953]LogEditorTransaction: Undo Scale Components
+[2023.07.07-19.21.38:922][840]Cmd: TRANSACTION UNDO
+[2023.07.07-19.21.38:922][840]LogEditorTransaction: Undo Scale Components
+[2023.07.07-19.21.39:207][859]Cmd: TRANSACTION UNDO
+[2023.07.07-19.21.39:207][859]LogEditorTransaction: Undo Scale Components
+[2023.07.07-19.21.40:322][972]Cmd: DELETE
+[2023.07.07-19.21.40:322][972]Cmd: ACTOR DELETE
+[2023.07.07-19.21.40:330][972]LogEditorActor: Deleted 1 Components (0.008 secs)
+[2023.07.07-19.21.42:034][167]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.07-19.21.42:037][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-19.21.42:037][167]PIE: New page: PIE session: FirstPersonExampleMap (Jul. 7, 2023, 11:21:42 a.m.)
+[2023.07.07-19.21.42:067][167]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-19.21.42:075][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007927s)
+[2023.07.07-19.21.42:075][167]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.07.07-19.21.42:076][167]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2023.07.07-19.21.42:076][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009085s)
+[2023.07.07-19.21.42:080][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.07.07-19.21.42:087][167]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.07.07-19.21.42:087][167]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-19.21.42:087][167]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-19.21.42:087][167]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-19.21.42:087][167]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-19.21.42:087][167]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.07-19.21.42:087][167]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.07-19.21.42:087][167]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.07-19.21.42:087][167]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-19.21.42:088][167]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-19.21.42:088][167]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-19.21.42:088][167]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-19.21.42:088][167]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.07-19.21.42:092][167]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.07-19.21.42:092][167]LogAudioMixer: Display: 1: FrontRight
+[2023.07.07-19.21.42:099][167]LogAudioMixer: Display: Using Audio Device Speakers (HyperX QuadCast S)
+[2023.07.07-19.21.42:099][167]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-19.21.42:099][167]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-19.21.42:099][167]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-19.21.42:100][167]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.07-19.21.42:100][167]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.07-19.21.42:100][167]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.07-19.21.42:101][167]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.07-19.21.42:101][167]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.07-19.21.42:101][167]LogInit: FAudioDevice initialized.
+[2023.07.07-19.21.42:101][167]LogAudio: Display: Audio Device (ID: 12) registered with world 'FirstPersonExampleMap'.
+[2023.07.07-19.21.42:108][167]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.07.07-19.21.42:110][167]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.07.07-15.21.42
+[2023.07.07-19.21.42:110][167]LogWorld: Bringing up level for play took: 0.001227
+[2023.07.07-19.21.42:110][167]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2023.07.07-19.21.42:111][167]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.07.07-19.21.42:111][167]PIE: Server logged in
+[2023.07.07-19.21.42:112][167]PIE: Play in editor total start time 0.076 seconds.
+[2023.07.07-19.21.52:128][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-19.21.52:128][363]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-19.21.52:128][363]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-19.21.52:128][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-19.21.52:136][363]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-19.21.52:146][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-19.21.52:149][363]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.07-19.21.52:149][363]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-19.21.52:150][363]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-19.21.52:152][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-19.21.52:153][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.07.07-19.21.52:208][365]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.07.07-19.21.58:182][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2023.07.07-19.22.02:866][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2023.07.07-19.22.03:239][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2023.07.07-19.22.04:846][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2023.07.07-19.22.05:232][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder3)
+[2023.07.07-19.22.09:688][397]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.07-19.22.09:691][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-19.22.09:691][397]PIE: New page: PIE session: FirstPersonExampleMap (Jul. 7, 2023, 11:22:09 a.m.)
+[2023.07.07-19.22.09:736][397]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-19.22.09:744][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007545s)
+[2023.07.07-19.22.09:745][397]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.07.07-19.22.09:745][397]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2023.07.07-19.22.09:745][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.008537s)
+[2023.07.07-19.22.09:750][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.07.07-19.22.09:753][397]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.07.07-19.22.09:753][397]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-19.22.09:753][397]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-19.22.09:753][397]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-19.22.09:753][397]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-19.22.09:753][397]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.07-19.22.09:753][397]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.07-19.22.09:753][397]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.07-19.22.09:753][397]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-19.22.09:754][397]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-19.22.09:754][397]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-19.22.09:754][397]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-19.22.09:754][397]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.07-19.22.09:757][397]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.07-19.22.09:757][397]LogAudioMixer: Display: 1: FrontRight
+[2023.07.07-19.22.09:764][397]LogAudioMixer: Display: Using Audio Device Speakers (HyperX QuadCast S)
+[2023.07.07-19.22.09:764][397]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-19.22.09:764][397]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-19.22.09:764][397]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-19.22.09:765][397]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.07-19.22.09:765][397]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.07-19.22.09:765][397]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.07-19.22.09:766][397]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.07-19.22.09:766][397]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.07-19.22.09:766][397]LogInit: FAudioDevice initialized.
+[2023.07.07-19.22.09:766][397]LogAudio: Display: Audio Device (ID: 13) registered with world 'FirstPersonExampleMap'.
+[2023.07.07-19.22.09:770][397]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.07.07-19.22.09:772][397]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.07.07-15.22.09
+[2023.07.07-19.22.09:772][397]LogWorld: Bringing up level for play took: 0.001215
+[2023.07.07-19.22.09:772][397]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2023.07.07-19.22.09:773][397]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.07.07-19.22.09:773][397]PIE: Server logged in
+[2023.07.07-19.22.09:774][397]PIE: Play in editor total start time 0.084 seconds.
+[2023.07.07-19.22.24:778][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-19.22.24:778][191]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-19.22.24:778][191]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-19.22.24:778][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-19.22.24:785][191]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-19.22.24:796][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-19.22.24:799][191]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.07-19.22.24:799][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-19.22.24:800][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-19.22.24:801][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-19.22.24:803][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.07.07-19.22.24:856][193]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.07.07-19.22.27:639][520]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Cube13)
+[2023.07.07-19.22.28:105][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2023.07.07-19.22.28:396][607]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent2)
+[2023.07.07-19.22.28:628][632]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent2)
+[2023.07.07-19.22.29:123][691]Cmd: DUPLICATE
+[2023.07.07-19.22.29:123][691]Cmd: ACTOR DUPLICATE
+[2023.07.07-19.22.35:547][453]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.07-19.22.35:550][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-19.22.35:550][453]PIE: New page: PIE session: FirstPersonExampleMap (Jul. 7, 2023, 11:22:35 a.m.)
+[2023.07.07-19.22.35:587][453]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-19.22.35:594][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007597s)
+[2023.07.07-19.22.35:595][453]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.07.07-19.22.35:595][453]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2023.07.07-19.22.35:595][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.008711s)
+[2023.07.07-19.22.35:600][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.07.07-19.22.35:602][453]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.07.07-19.22.35:603][453]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-19.22.35:603][453]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-19.22.35:603][453]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-19.22.35:603][453]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-19.22.35:603][453]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.07-19.22.35:603][453]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.07-19.22.35:603][453]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.07-19.22.35:603][453]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-19.22.35:603][453]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-19.22.35:603][453]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-19.22.35:603][453]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-19.22.35:603][453]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.07-19.22.35:608][453]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.07-19.22.35:608][453]LogAudioMixer: Display: 1: FrontRight
+[2023.07.07-19.22.35:614][453]LogAudioMixer: Display: Using Audio Device Speakers (HyperX QuadCast S)
+[2023.07.07-19.22.35:614][453]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-19.22.35:614][453]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-19.22.35:614][453]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-19.22.35:615][453]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.07-19.22.35:615][453]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.07-19.22.35:615][453]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.07-19.22.35:616][453]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.07-19.22.35:616][453]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.07-19.22.35:616][453]LogInit: FAudioDevice initialized.
+[2023.07.07-19.22.35:616][453]LogAudio: Display: Audio Device (ID: 14) registered with world 'FirstPersonExampleMap'.
+[2023.07.07-19.22.35:623][453]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.07.07-19.22.35:625][453]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.07.07-15.22.35
+[2023.07.07-19.22.35:625][453]LogWorld: Bringing up level for play took: 0.001210
+[2023.07.07-19.22.35:625][453]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2023.07.07-19.22.35:626][453]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.07.07-19.22.35:626][453]PIE: Server logged in
+[2023.07.07-19.22.35:627][453]PIE: Play in editor total start time 0.078 seconds.
+[2023.07.07-19.22.45:488][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-19.22.45:488][629]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-19.22.45:488][629]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-19.22.45:488][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-19.22.45:499][629]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-19.22.45:509][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-19.22.45:513][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-19.22.45:513][629]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-19.22.45:514][629]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-19.22.45:517][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.07.07-19.22.45:562][632]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.07.07-19.23.21:229][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.07.07-19.23.21:244][652]LogSavePackage: Moving 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Saved/FirstPersonExampleMap_Auto2A87C4B3646F41832B81521804B2F8652.tmp' to 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2023.07.07-19.23.21:245][652]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.020
+[2023.07.07-19.23.21:245][652]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.020
+[2023.07.07-19.26.02:807][784]LogAssetTools: Warning: Failed to import 'C:\Users\dante\OneDrive\Documents\Unreal Projects\interviewPrep\Content\Textures\darkWoodFloor.avif'. Unknown extension 'avif'.
+[2023.07.07-19.26.28:157][938]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\dante\OneDrive\Documents\Unreal Projects\interviewPrep\Content\Textures\DarkWood.png)
+[2023.07.07-19.26.28:298][938]Error: Texture import failed
+[2023.07.07-19.26.31:090][938]LogSlate: Window 'Message' being destroyed
+[2023.07.07-19.26.31:092][938]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\dante\OneDrive\Documents\Unreal Projects\interviewPrep\Content\Textures\DarkWood.png'. Failed to create asset '/Game/Textures/DarkWood'.
+Please see Output Log for details.
+[2023.07.07-19.26.31:092][938]LogAssetTools: Warning: Failed to import 'C:\Users\dante\OneDrive\Documents\Unreal Projects\interviewPrep\Content\Textures\DarkWood.png'. Failed to create asset '/Game/Textures/DarkWood'.
+Please see Output Log for details.
+[2023.07.07-19.26.34:248][287]AssetReimport: New page: Outstanding source content changes 11:26:34 a.m.
+[2023.07.07-19.26.34:250][287]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/Textures/DarkWood.png)
+[2023.07.07-19.26.34:253][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.07.07-19.26.34:258][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.07.07-19.26.37:265][619]AssetReimport: Importing new asset /Game/Textures/DarkWood.
+[2023.07.07-19.26.37:265][619]AssetReimport: Failed to import file C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/Textures/DarkWood.png.
+[2023.07.07-19.27.13:491][888]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\dante\Downloads\darkWood.jpg)
+[2023.07.07-19.27.13:739][888]LogTexture: Display: Building textures: darkWood (OODLE_AutoDXT, 6000X4000)
+[2023.07.07-19.27.14:461][888]LogTextureFormatOodle: Display: non-RDO encode 6000 x 4000 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.07.07-19.27.30:290][246]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: DBE1CEC58690524E30014B02542FCAC0FF4D1984), compiling. 
+[2023.07.07-19.27.30:317][247]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.27.30:317][247]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.07.07-19.27.30:317][247]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.07.07-19.27.30:317][247]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.27.30:327][247]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.07.07-19.27.30:332][247]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 14
+[2023.07.07-19.27.30:332][247]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 12
+[2023.07.07-19.27.30:332][247]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2023.07.07-19.27.30:332][247]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2023.07.07-19.27.30:332][247]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2023.07.07-19.27.30:332][247]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2023.07.07-19.27.30:332][247]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.07.07-19.27.30:332][247]LogShaderCompilers: Display: Started 14 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-19.27.30:899][267]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.07-19.27.30:900][267]LogShaderCompilers: Display: Total job queries 28, among them cache hits 0 (0.00%)
+[2023.07.07-19.27.30:900][267]LogShaderCompilers: Display: Tracking 13 distinct input hashes that result in 7 distinct outputs (53.85%)
+[2023.07.07-19.27.30:900][267]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 2457.60 MB (2.40 GB) budget. Usage: 0.00%
+[2023.07.07-19.27.30:900][267]LogShaderCompilers: Display: ================================================
+[2023.07.07-19.27.39:410][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2023.07.07-19.27.48:031][188]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Textures/darkWood_Mat.darkWood_Mat
+[2023.07.07-19.27.48:033][188]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B7CD021064C62AB6A58E3E2CBA5FD8E35C4F5257), compiling. 
+[2023.07.07-19.27.48:147][188]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 4B1937914AD8AE1BD15104C7F9853ADEBD901AD8), compiling. 
+[2023.07.07-19.27.48:149][188]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 809A321B497D96C8F94A7D92460F157F7B2A8116), compiling. 
+[2023.07.07-19.27.48:157][188]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.27.48:157][188]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.27.48:157][188]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.27.48:275][189]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.07.07-19.27.48:275][189]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.07.07-19.27.48:275][189]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.07.07-19.27.48:275][189]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.27.48:275][189]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.27.48:275][189]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.27.48:390][198]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.27.48:390][198]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.07.07-19.27.48:390][198]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.07.07-19.27.48:390][198]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.29.06:013][926]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A14AC76BBF3CD4E60267CC0F24FFE8F64C85F779), compiling. 
+[2023.07.07-19.29.06:019][926]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.29.06:019][926]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.29.06:019][926]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.29.06:060][928]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.07.07-19.29.06:060][928]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.07.07-19.29.06:060][928]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.07.07-19.29.06:060][928]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.29.06:060][928]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.29.06:060][928]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.29.18:359][ 87]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A9F4B62E3B258B997F3D537984619E1DD66639F7), compiling. 
+[2023.07.07-19.29.18:362][ 87]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: E2FF2446ABD8EDE142F1E34C36631203874FF34A), compiling. 
+[2023.07.07-19.29.18:367][ 87]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.29.18:367][ 87]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.29.18:367][ 87]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.29.18:406][ 89]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.07.07-19.29.18:406][ 89]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.07.07-19.29.18:406][ 89]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.07.07-19.29.18:406][ 89]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.29.18:406][ 89]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.29.18:406][ 89]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.29.43:422][448]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 91D3D53B36740ECAFFDE1574D3E46DD49DD262DB), compiling. 
+[2023.07.07-19.29.43:423][448]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8E651522BAB5FCC8BEEF1AC812DF31FA27717F8E), compiling. 
+[2023.07.07-19.29.43:425][448]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.29.43:425][448]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.29.43:425][448]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.29.43:435][449]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.29.43:435][449]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.07.07-19.29.43:436][449]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.07.07-19.29.43:436][449]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.29.43:449][450]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.07.07-19.29.43:449][450]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.29.43:471][451]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2023.07.07-19.29.43:471][451]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2023.07.07-19.29.43:471][451]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2023.07.07-19.29.43:471][451]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2023.07.07-19.29.43:471][451]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2023.07.07-19.29.43:471][451]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2023.07.07-19.29.43:471][451]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2023.07.07-19.29.43:471][451]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2023.07.07-19.29.43:471][451]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2023.07.07-19.29.43:471][451]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2023.07.07-19.29.43:471][451]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-19.29.43:471][451]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.29.44:324][490]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.29.44:324][490]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.29.44:324][490]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.29.44:530][506]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.07.07-19.29.44:530][506]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.07.07-19.29.44:530][506]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.07.07-19.29.44:530][506]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.29.44:530][506]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.29.44:530][506]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.30.18:285][836]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 885319AF487EEBA5ED8EF683D7292FFBC5A21457), compiling. 
+[2023.07.07-19.30.18:289][836]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: D0A23A30D197D9B76E3ECA1F4A6A131FBB88C984), compiling. 
+[2023.07.07-19.30.18:290][836]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.30.18:291][836]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.30.18:291][836]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.30.18:300][837]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.30.18:314][838]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.07.07-19.30.18:314][838]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.07.07-19.30.18:314][838]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.30.18:314][838]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.07.07-19.30.18:329][839]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2023.07.07-19.30.18:329][839]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2023.07.07-19.30.18:329][839]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2023.07.07-19.30.18:329][839]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2023.07.07-19.30.18:329][839]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2023.07.07-19.30.18:329][839]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2023.07.07-19.30.18:329][839]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.07.07-19.30.18:329][839]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.07.07-19.30.18:329][839]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-19.30.19:153][877]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.30.19:153][877]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.30.19:153][877]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.30.19:282][885]MaterialEditorStats: Base pass shader: 121 instructions
+[2023.07.07-19.30.19:282][885]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2023.07.07-19.30.19:282][885]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.07.07-19.30.19:282][885]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.30.19:282][885]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.30.19:282][885]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.30.21:843][112]LogMaterialEditor: Saving and Compiling material darkWood_Mat
+[2023.07.07-19.30.22:097][112]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C7CFF237D5D17D296BC67038CB7D6DFC1033C07C), compiling. 
+[2023.07.07-19.30.22:119][112]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 55F638942DD0BCA961D365BF7ACD300CFF0262C4), compiling. 
+[2023.07.07-19.30.22:155][112]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Normal' priority
+[2023.07.07-19.30.22:160][112]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2023.07.07-19.30.22:160][112]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2023.07.07-19.30.22:160][112]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2023.07.07-19.30.22:160][112]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2023.07.07-19.30.22:160][112]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2023.07.07-19.30.22:160][112]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2023.07.07-19.30.22:160][112]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-19.30.22:165][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.07.07-19.30.22:500][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.07.07-19.30.22:613][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/darkWood_Mat" FILE="C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/Textures/darkWood_Mat.uasset" SILENT=true
+[2023.07.07-19.30.22:618][112]LogSavePackage: Moving 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Saved/darkWood_Mat622B4967441E9DA724A65D89157B2359.tmp' to 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/Textures/darkWood_Mat.uasset'
+[2023.07.07-19.30.22:631][112]AssetCheck: New page: Asset Save: darkWood_Mat
+[2023.07.07-19.30.22:631][112]LogContentValidation: Display: Validating Material /Game/Textures/darkWood_Mat.darkWood_Mat
+[2023.07.07-19.30.22:632][112]MaterialEditorStats: Base pass shader: 121 instructions
+[2023.07.07-19.30.22:632][112]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2023.07.07-19.30.22:632][112]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.07.07-19.30.22:632][112]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.07-19.30.22:632][112]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.30.22:632][112]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.30.44:015][648]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C212D16663EB07069761CD745F1A93968F7D12D7), compiling. 
+[2023.07.07-19.30.44:017][648]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 130609E16E1D123C92A3D7DC344DACBE0FFF6CA1), compiling. 
+[2023.07.07-19.30.44:019][648]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.30.44:019][648]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.30.44:019][648]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.30.44:037][649]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.30.44:037][649]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.07.07-19.30.44:037][649]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.07.07-19.30.44:037][649]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.30.44:037][649]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.07.07-19.30.44:052][650]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2023.07.07-19.30.44:052][650]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2023.07.07-19.30.44:052][650]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2023.07.07-19.30.44:052][650]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2023.07.07-19.30.44:052][650]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2023.07.07-19.30.44:052][650]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2023.07.07-19.30.44:052][650]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.07.07-19.30.44:052][650]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.07.07-19.30.44:052][650]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-19.30.44:318][668]LogMaterialEditor: Saving and Compiling material darkWood_Mat
+[2023.07.07-19.30.44:696][668]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 22B19C4BA5076B4E48377830002520F41347EA1A), compiling. 
+[2023.07.07-19.30.44:730][668]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 88E94B3E2C78546E28C0512ECB99B0CB9C36C292), compiling. 
+[2023.07.07-19.30.44:739][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.07.07-19.30.44:857][668]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Normal' priority
+[2023.07.07-19.30.44:857][668]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 6
+[2023.07.07-19.30.44:857][668]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 5
+[2023.07.07-19.30.44:857][668]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2023.07.07-19.30.44:857][668]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2023.07.07-19.30.44:857][668]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2023.07.07-19.30.44:857][668]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2023.07.07-19.30.44:857][668]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-19.30.44:857][668]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.07-19.30.44:857][668]LogShaderCompilers: Display: Total job queries 162, among them cache hits 75 (46.30%)
+[2023.07.07-19.30.44:857][668]LogShaderCompilers: Display: Tracking 64 distinct input hashes that result in 33 distinct outputs (51.56%)
+[2023.07.07-19.30.44:857][668]LogShaderCompilers: Display: RAM used: 0.16 MB (0.00 GB) of 2457.60 MB (2.40 GB) budget. Usage: 0.01%
+[2023.07.07-19.30.44:857][668]LogShaderCompilers: Display: ================================================
+[2023.07.07-19.30.45:180][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.07.07-19.30.45:288][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/darkWood_Mat" FILE="C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/Textures/darkWood_Mat.uasset" SILENT=true
+[2023.07.07-19.30.45:294][668]LogSavePackage: Moving 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Saved/darkWood_Mat0FB32A8D4A61F2132271EDBCD3BED144.tmp' to 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/Textures/darkWood_Mat.uasset'
+[2023.07.07-19.30.45:304][668]AssetCheck: New page: Asset Save: darkWood_Mat
+[2023.07.07-19.30.45:304][668]LogContentValidation: Display: Validating Material /Game/Textures/darkWood_Mat.darkWood_Mat
+[2023.07.07-19.30.45:305][668]MaterialEditorStats: Base pass shader: 121 instructions
+[2023.07.07-19.30.45:305][668]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2023.07.07-19.30.45:305][668]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.07.07-19.30.45:305][668]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.07-19.30.45:305][668]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.30.45:305][668]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.30.56:981][487]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 200FEA271ACD09F5723E93057C4B18F3C73BA785), compiling. 
+[2023.07.07-19.30.56:984][487]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A9EB81AD688680861E52CF08B0D79CEB121449E6), compiling. 
+[2023.07.07-19.30.56:986][487]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.30.56:986][487]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.30.56:986][487]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.30.56:996][488]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.30.56:996][488]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.07.07-19.30.56:996][488]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.07.07-19.30.56:996][488]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.30.57:010][489]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.07.07-19.30.57:010][489]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2023.07.07-19.30.57:010][489]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2023.07.07-19.30.57:010][489]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2023.07.07-19.30.57:010][489]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2023.07.07-19.30.57:010][489]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2023.07.07-19.30.57:010][489]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2023.07.07-19.30.57:010][489]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.07.07-19.30.57:010][489]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.07.07-19.30.57:010][489]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-19.30.57:356][504]LogMaterialEditor: Saving and Compiling material darkWood_Mat
+[2023.07.07-19.30.57:701][504]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5DE295384C8B8A4C4CAF3E367B1DA82406F8BF8E), compiling. 
+[2023.07.07-19.30.57:723][504]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B317887A5BD00C9EF46DE1707729BB3BAFB773A0), compiling. 
+[2023.07.07-19.30.57:731][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.07.07-19.30.58:051][504]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Normal' priority
+[2023.07.07-19.30.58:051][504]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2023.07.07-19.30.58:051][504]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2023.07.07-19.30.58:051][504]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2023.07.07-19.30.58:051][504]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2023.07.07-19.30.58:051][504]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2023.07.07-19.30.58:051][504]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2023.07.07-19.30.58:051][504]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-19.30.58:062][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.07.07-19.30.58:247][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/darkWood_Mat" FILE="C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/Textures/darkWood_Mat.uasset" SILENT=true
+[2023.07.07-19.30.58:252][504]LogSavePackage: Moving 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Saved/darkWood_Mat868ED53A49AB366CAE7E838D53F5950D.tmp' to 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/Textures/darkWood_Mat.uasset'
+[2023.07.07-19.30.58:265][504]AssetCheck: New page: Asset Save: darkWood_Mat
+[2023.07.07-19.30.58:265][504]LogContentValidation: Display: Validating Material /Game/Textures/darkWood_Mat.darkWood_Mat
+[2023.07.07-19.30.58:265][504]MaterialEditorStats: Base pass shader: 121 instructions
+[2023.07.07-19.30.58:265][504]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2023.07.07-19.30.58:265][504]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.07.07-19.30.58:265][504]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.07-19.30.58:265][504]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.30.58:265][504]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.31.01:244][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2023.07.07-19.31.06:681][ 74]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 71BAC4A61FB42FA261D46F93932F4F8FA5C9D054), compiling. 
+[2023.07.07-19.31.06:683][ 74]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C829FF04E2A952F162DC9E478621D3F0D8E78E72), compiling. 
+[2023.07.07-19.31.06:686][ 74]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.31.06:686][ 74]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.31.06:686][ 74]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.31.06:695][ 75]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.31.06:696][ 75]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.07.07-19.31.06:696][ 75]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.07.07-19.31.06:696][ 75]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.31.06:708][ 76]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.07.07-19.31.06:708][ 76]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2023.07.07-19.31.06:708][ 76]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2023.07.07-19.31.06:708][ 76]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2023.07.07-19.31.06:708][ 76]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2023.07.07-19.31.06:708][ 76]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2023.07.07-19.31.06:708][ 76]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2023.07.07-19.31.06:708][ 76]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.07.07-19.31.06:708][ 76]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.07.07-19.31.06:708][ 76]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-19.31.07:396][110]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.31.07:396][110]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.31.07:396][110]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.31.07:462][115]MaterialEditorStats: Base pass shader: 121 instructions
+[2023.07.07-19.31.07:462][115]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2023.07.07-19.31.07:462][115]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.07.07-19.31.07:462][115]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.31.07:462][115]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.31.07:462][115]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.31.08:573][222]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7F511290DCECA69F344F698A16151636C7B4B98D), compiling. 
+[2023.07.07-19.31.08:574][222]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 15E9B237E3949403D01D052AA5BBDACF45A4F5B9), compiling. 
+[2023.07.07-19.31.08:576][222]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.31.08:576][222]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.31.08:576][222]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.31.08:594][223]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.31.08:594][223]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.07.07-19.31.08:594][223]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.07.07-19.31.08:594][223]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.07.07-19.31.08:594][223]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2023.07.07-19.31.08:594][223]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2023.07.07-19.31.08:594][223]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2023.07.07-19.31.08:594][223]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2023.07.07-19.31.08:594][223]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2023.07.07-19.31.08:594][223]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2023.07.07-19.31.08:594][223]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.07.07-19.31.08:594][223]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.07.07-19.31.08:594][223]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-19.31.08:594][223]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.31.09:259][255]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.31.09:259][255]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.31.09:259][255]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.31.09:336][261]MaterialEditorStats: Base pass shader: 121 instructions
+[2023.07.07-19.31.09:336][261]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2023.07.07-19.31.09:336][261]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.07.07-19.31.09:336][261]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.31.09:336][261]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.31.09:336][261]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.31.09:485][276]LogMaterialEditor: Saving and Compiling material darkWood_Mat
+[2023.07.07-19.31.09:739][276]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 334245551924CDF419CB5C0A765575C309942825), compiling. 
+[2023.07.07-19.31.09:762][276]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B03BBE354CE449D409C86037CA12DFC8166DD244), compiling. 
+[2023.07.07-19.31.09:770][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.07.07-19.31.10:091][276]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Normal' priority
+[2023.07.07-19.31.10:092][276]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2023.07.07-19.31.10:092][276]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2023.07.07-19.31.10:092][276]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2023.07.07-19.31.10:092][276]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2023.07.07-19.31.10:092][276]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2023.07.07-19.31.10:092][276]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2023.07.07-19.31.10:092][276]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-19.31.10:102][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.07.07-19.31.10:270][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/darkWood_Mat" FILE="C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/Textures/darkWood_Mat.uasset" SILENT=true
+[2023.07.07-19.31.10:277][276]LogSavePackage: Moving 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Saved/darkWood_MatBA8B7E12481D92A55DE8159CAD3CD68B.tmp' to 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/Textures/darkWood_Mat.uasset'
+[2023.07.07-19.31.10:288][276]AssetCheck: New page: Asset Save: darkWood_Mat
+[2023.07.07-19.31.10:288][276]LogContentValidation: Display: Validating Material /Game/Textures/darkWood_Mat.darkWood_Mat
+[2023.07.07-19.31.10:289][276]MaterialEditorStats: Base pass shader: 121 instructions
+[2023.07.07-19.31.10:289][276]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2023.07.07-19.31.10:289][276]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.07.07-19.31.10:289][276]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.07-19.31.10:289][276]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.31.10:289][276]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.31.13:078][492]LogSlate: Window 'darkWood_Mat' being destroyed
+[2023.07.07-19.31.25:477][745]LogActorFactory: Actor Factory created Cube
+[2023.07.07-19.31.26:881][912]LogActorFactory: Actor Factory created Cube
+[2023.07.07-19.31.27:023][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2023.07.07-19.31.29:041][163]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.07-19.31.48:852][530]Cmd: DUPLICATE
+[2023.07.07-19.31.48:852][530]Cmd: ACTOR DUPLICATE
+[2023.07.07-19.31.50:074][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.07.07-19.31.50:092][670]LogSavePackage: Moving 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Saved/FirstPersonExampleMap6FA305254C2B34F055193AAC2335178D.tmp' to 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-19.31.50:326][670]LogSavePackage: Moving 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Saved/FirstPersonExampleMap_BuiltDataBCCC48C544BDF11B6297969A7D6A06AB.tmp' to 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-19.31.50:333][670]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-19.31.50:333][670]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-19.31.50:333][670]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-19.31.51:265][782]Cmd: DUPLICATE
+[2023.07.07-19.31.51:265][782]Cmd: ACTOR DUPLICATE
+[2023.07.07-19.31.52:436][920]Cmd: TRANSACTION UNDO
+[2023.07.07-19.31.52:436][920]LogEditorTransaction: Undo Duplicate Actors
+[2023.07.07-19.31.52:450][920]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: FAABF6AF21881D229957C1037B215202D7504A85), compiling. 
+[2023.07.07-19.31.52:456][920]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.31.52:456][920]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.31.52:456][920]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.31.52:543][923]MaterialEditorStats: Base pass shader: 121 instructions
+[2023.07.07-19.31.52:543][923]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2023.07.07-19.31.52:543][923]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.07.07-19.31.52:543][923]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.31.52:543][923]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.31.52:543][923]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.32.07:432][672]Cmd: DUPLICATE
+[2023.07.07-19.32.07:432][672]Cmd: ACTOR DUPLICATE
+[2023.07.07-19.32.19:264][ 82]Cmd: DUPLICATE
+[2023.07.07-19.32.19:264][ 82]Cmd: ACTOR DUPLICATE
+[2023.07.07-19.32.22:075][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.07.07-19.32.22:093][410]LogSavePackage: Moving 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Saved/FirstPersonExampleMap496239E74A51D27FFC4CB3951B1EA397.tmp' to 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-19.32.22:329][410]LogSavePackage: Moving 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Saved/FirstPersonExampleMap_BuiltData6E5217D746C6217CEA3D06B5A0AC5466.tmp' to 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-19.32.22:339][410]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-19.32.22:339][410]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-19.32.22:339][410]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-19.32.37:182][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.07.07-19.32.37:199][170]LogSavePackage: Moving 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Saved/FirstPersonExampleMap34170868465204D9ED4EA38E6C88FC84.tmp' to 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-19.32.37:434][170]LogSavePackage: Moving 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Saved/FirstPersonExampleMap_BuiltData07AF0F804910CA722AF7C896F277E0B4.tmp' to 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-19.32.37:441][170]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-19.32.37:441][170]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-19.32.37:441][170]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-19.32.41:974][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2023.07.07-19.32.51:186][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2023.07.07-19.32.55:209][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
+[2023.07.07-19.32.56:449][425]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.07.07-19.32.56:542][434]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2023.07.07-19.32.57:354][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2023.07.07-19.32.57:831][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
+[2023.07.07-19.33.05:517][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2023.07.07-19.33.05:834][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2023.07.07-19.33.06:296][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2023.07.07-19.33.09:187][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2023.07.07-19.33.10:152][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2023.07.07-19.33.10:761][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2023.07.07-19.33.11:388][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2023.07.07-19.33.12:512][318]Cmd: DELETE
+[2023.07.07-19.33.12:512][318]Cmd: ACTOR DELETE
+[2023.07.07-19.33.12:514][318]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.07.07-19.33.12:517][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.07.07-19.33.12:520][318]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2023.07.07-19.33.13:105][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.07.07-19.33.13:119][387]LogSavePackage: Moving 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Saved/FirstPersonExampleMap3EFA83CE41B998CC8D0D03A0AE757ACF.tmp' to 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-19.33.13:356][387]LogSavePackage: Moving 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Saved/FirstPersonExampleMap_BuiltDataC675989A41C58EB111F4B6AC52C35BBD.tmp' to 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-19.33.13:365][387]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-19.33.13:365][387]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-19.33.13:365][387]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-19.33.18:964][ 20]LogContentBrowser: Deferred new asset file creation: darkWood_Mat1
+[2023.07.07-19.33.18:968][ 20]LogContentBrowser: Creating deferred item: darkWood_Mat1
+[2023.07.07-19.33.23:366][548]LogContentBrowser: Attempting asset rename: darkWood_Mat1 -> darkWood_MatDoor
+[2023.07.07-19.33.23:368][548]LogMaterial: Display: Missing cached shadermap for darkWood_MatDoor in PCD3D_SM5, Default, SM5 (DDC key hash: BF97313DAE7879DCDF7FEB32BDA631A4DBC1A212), compiling. 
+[2023.07.07-19.33.23:375][548]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2023.07.07-19.33.23:376][548]LogContentBrowser: End creating deferred item darkWood_Mat1
+[2023.07.07-19.33.23:392][551]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.07.07-19.33.23:392][551]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.07.07-19.33.23:392][551]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 14
+[2023.07.07-19.33.23:392][551]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 12
+[2023.07.07-19.33.23:392][551]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2023.07.07-19.33.23:392][551]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2023.07.07-19.33.23:392][551]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2023.07.07-19.33.23:392][551]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2023.07.07-19.33.23:392][551]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.07.07-19.33.23:392][551]LogShaderCompilers: Display: Started 14 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-19.33.23:392][551]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.33.26:393][838]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Textures/darkWood_MatDoor.darkWood_MatDoor
+[2023.07.07-19.33.26:394][838]LogMaterial: Display: Missing cached shadermap for darkWood_MatDoor in PCD3D_SM5, Default, SM5 (DDC key hash: 2E06B4750AFD554FEADB58747B22E89F2AD35876), compiling. 
+[2023.07.07-19.33.26:438][838]LogMaterial: Display: Missing cached shadermap for darkWood_MatDoor in PCD3D_SM5, Default, SM5 (DDC key hash: 78B3F19ED32F47FF143A39ED6F20699D8581550A), compiling. 
+[2023.07.07-19.33.26:439][838]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0DBFC311E6C6600D4524FD1E9294A280973249D6), compiling. 
+[2023.07.07-19.33.26:447][838]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.33.26:447][838]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.33.26:447][838]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.33.26:491][839]MaterialEditorStats: Base pass shader: 121 instructions
+[2023.07.07-19.33.26:491][839]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2023.07.07-19.33.26:491][839]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.07.07-19.33.26:491][839]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.33.26:491][839]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.33.26:491][839]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.33.26:548][846]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.33.26:557][847]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.07.07-19.33.26:557][847]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.07.07-19.33.26:557][847]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.33.32:804][596]LogMaterialEditor: Saving and Compiling material darkWood_MatDoor
+[2023.07.07-19.33.32:816][596]LogMaterial: Display: Missing cached shadermap for darkWood_MatDoor in PCD3D_SM5, Default, SM5 (DDC key hash: 001E662474682FD7471A568B91432BBA052FED13), compiling. 
+[2023.07.07-19.33.32:817][596]LogMaterial: Display: Missing cached shadermap for darkWood_MatDoor in PCD3D_SM5, Default, SM5 (DDC key hash: 3FC11F145993453DABE3BA834929F72ACC13ADA8), compiling. 
+[2023.07.07-19.33.32:833][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/darkWood_MatDoor" FILE="C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/Textures/darkWood_MatDoor.uasset" SILENT=true
+[2023.07.07-19.33.32:837][596]LogSavePackage: Moving 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Saved/darkWood_MatDoorF7E525D147056858D74CB0AE6EAF389D.tmp' to 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/Textures/darkWood_MatDoor.uasset'
+[2023.07.07-19.33.32:844][596]AssetCheck: New page: Asset Save: darkWood_MatDoor
+[2023.07.07-19.33.32:844][596]LogContentValidation: Display: Validating Material /Game/Textures/darkWood_MatDoor.darkWood_MatDoor
+[2023.07.07-19.33.32:845][596]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.33.32:845][596]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.33.32:845][596]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.33.32:848][597]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.33.32:852][598]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.07.07-19.33.32:860][599]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.07.07-19.33.32:860][599]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.07.07-19.33.32:860][599]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2023.07.07-19.33.32:860][599]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2023.07.07-19.33.32:860][599]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2023.07.07-19.33.32:860][599]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2023.07.07-19.33.32:860][599]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2023.07.07-19.33.32:860][599]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2023.07.07-19.33.32:860][599]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.07.07-19.33.32:860][599]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.07.07-19.33.32:860][599]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-19.33.32:860][599]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.33.33:342][648]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.33.33:342][648]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.33.33:342][648]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.33.33:409][656]MaterialEditorStats: Base pass shader: 121 instructions
+[2023.07.07-19.33.33:409][656]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2023.07.07-19.33.33:409][656]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.07.07-19.33.33:409][656]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.33.33:409][656]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.33.33:409][656]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.33.51:504][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2023.07.07-19.33.59:965][648]Cmd: DUPLICATE
+[2023.07.07-19.33.59:965][648]Cmd: ACTOR DUPLICATE
+[2023.07.07-19.34.00:256][679]Cmd: DUPLICATE
+[2023.07.07-19.34.00:256][679]Cmd: ACTOR DUPLICATE
+[2023.07.07-19.34.00:969][752]Cmd: ACTOR SELECT ALL
+[2023.07.07-19.34.02:113][854]Cmd: TRANSACTION UNDO
+[2023.07.07-19.34.02:113][854]LogEditorTransaction: Undo Select All
+[2023.07.07-19.34.02:128][854]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: EEEA8FC7E1A9961059E6F099CD553170D35279B3), compiling. 
+[2023.07.07-19.34.02:137][854]LogMaterial: Display: Missing cached shadermap for darkWood_MatDoor in PCD3D_SM5, Default, SM5 (DDC key hash: 94947D64166D5008F34F260D1AC4E77B96331CAF), compiling. 
+[2023.07.07-19.34.02:145][854]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.34.02:145][854]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.34.02:145][854]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.34.02:145][854]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.34.02:145][854]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.34.02:145][854]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.34.02:260][856]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.07-19.34.02:260][856]LogShaderCompilers: Display: Total job queries 334, among them cache hits 177 (52.99%)
+[2023.07.07-19.34.02:260][856]LogShaderCompilers: Display: Tracking 144 distinct input hashes that result in 77 distinct outputs (53.47%)
+[2023.07.07-19.34.02:260][856]LogShaderCompilers: Display: RAM used: 0.43 MB (0.00 GB) of 2457.60 MB (2.40 GB) budget. Usage: 0.02%
+[2023.07.07-19.34.02:260][856]LogShaderCompilers: Display: ================================================
+[2023.07.07-19.34.02:279][857]MaterialEditorStats: Base pass shader: 121 instructions
+[2023.07.07-19.34.02:279][857]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2023.07.07-19.34.02:279][857]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.07.07-19.34.02:279][857]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.34.02:279][857]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.34.02:279][857]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.34.02:280][857]MaterialEditorStats: Base pass shader: 121 instructions
+[2023.07.07-19.34.02:280][857]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2023.07.07-19.34.02:280][857]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.07.07-19.34.02:280][857]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.34.02:280][857]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.34.02:280][857]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.34.02:470][866]Cmd: TRANSACTION UNDO
+[2023.07.07-19.34.02:470][866]LogEditorTransaction: Undo Duplicate Actors
+[2023.07.07-19.34.02:486][866]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 915D0766B02C6B31A46ADDA6716D39DE43B8A781), compiling. 
+[2023.07.07-19.34.02:488][866]LogMaterial: Display: Missing cached shadermap for darkWood_MatDoor in PCD3D_SM5, Default, SM5 (DDC key hash: B87272716B9F3C91D7B4430E974F098D99195D8B), compiling. 
+[2023.07.07-19.34.02:490][866]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.34.02:490][866]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.34.02:490][866]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.34.02:490][866]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.34.02:490][866]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.34.02:490][866]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.34.02:607][869]MaterialEditorStats: Base pass shader: 121 instructions
+[2023.07.07-19.34.02:608][869]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2023.07.07-19.34.02:608][869]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.07.07-19.34.02:608][869]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.34.02:608][869]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.34.02:608][869]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.34.02:608][869]MaterialEditorStats: Base pass shader: 121 instructions
+[2023.07.07-19.34.02:608][869]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2023.07.07-19.34.02:608][869]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.07.07-19.34.02:608][869]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.34.02:608][869]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.34.02:608][869]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.34.03:108][927]Cmd: TRANSACTION UNDO
+[2023.07.07-19.34.03:108][927]LogEditorTransaction: Undo Duplicate Actors
+[2023.07.07-19.34.03:123][927]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5BD3DBF361366A022D6E7FE7F6486D02730891C0), compiling. 
+[2023.07.07-19.34.03:124][927]LogMaterial: Display: Missing cached shadermap for darkWood_MatDoor in PCD3D_SM5, Default, SM5 (DDC key hash: 5A726E13426A33DC3861F0E704A69BCAD90E4AC0), compiling. 
+[2023.07.07-19.34.03:126][927]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.34.03:126][927]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.34.03:126][927]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.34.03:126][927]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.34.03:126][927]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.34.03:126][927]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.34.03:177][930]MaterialEditorStats: Base pass shader: 121 instructions
+[2023.07.07-19.34.03:178][930]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2023.07.07-19.34.03:178][930]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.07.07-19.34.03:178][930]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.34.03:178][930]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.34.03:178][930]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.34.03:192][931]MaterialEditorStats: Base pass shader: 121 instructions
+[2023.07.07-19.34.03:192][931]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2023.07.07-19.34.03:192][931]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.07.07-19.34.03:192][931]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.34.03:192][931]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.34.03:192][931]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.34.07:156][385]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2023.07.07-19.34.11:498][888]LogMaterial: Display: Missing cached shadermap for darkWood_MatDoor in PCD3D_SM5, Default, SM5 (DDC key hash: B05842B3ABD3CA3B54CC065A89287A902341CA54), compiling. 
+[2023.07.07-19.34.11:500][888]LogMaterial: Display: Missing cached shadermap for darkWood_MatDoor in PCD3D_SM5, Default, SM5 (DDC key hash: 60128915C7604ACDBE2EC615E07BD0705321CE19), compiling. 
+[2023.07.07-19.34.11:502][888]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.34.11:502][888]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.34.11:502][888]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.34.11:506][889]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.34.11:509][890]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.07.07-19.34.11:509][890]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.07.07-19.34.11:509][890]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.34.11:510][890]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.07.07-19.34.11:529][892]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2023.07.07-19.34.11:529][892]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2023.07.07-19.34.11:529][892]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2023.07.07-19.34.11:529][892]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2023.07.07-19.34.11:529][892]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2023.07.07-19.34.11:529][892]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2023.07.07-19.34.11:529][892]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.07.07-19.34.11:529][892]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.07.07-19.34.11:529][892]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-19.34.11:852][928]LogMaterialEditor: Saving and Compiling material darkWood_MatDoor
+[2023.07.07-19.34.12:220][928]LogMaterial: Display: Missing cached shadermap for darkWood_MatDoor in PCD3D_SM5, Default, SM5 (DDC key hash: 9673923FB8E3CAAF79BD35E33E4C5073794E2753), compiling. 
+[2023.07.07-19.34.12:239][928]LogMaterial: Display: Missing cached shadermap for darkWood_MatDoor in PCD3D_SM5, Default, SM5 (DDC key hash: AE5CA0216DF159166FC889BB1A1A4EA8B4A69D59), compiling. 
+[2023.07.07-19.34.12:284][928]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Normal' priority
+[2023.07.07-19.34.12:284][928]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2023.07.07-19.34.12:284][928]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2023.07.07-19.34.12:284][928]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2023.07.07-19.34.12:284][928]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2023.07.07-19.34.12:284][928]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.07.07-19.34.12:284][928]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2023.07.07-19.34.12:284][928]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-19.34.12:298][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.07.07-19.34.12:728][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.07.07-19.34.12:820][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/darkWood_MatDoor" FILE="C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/Textures/darkWood_MatDoor.uasset" SILENT=true
+[2023.07.07-19.34.12:825][928]LogSavePackage: Moving 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Saved/darkWood_MatDoorD23B391144E2A35D9A84C4BD8B93248D.tmp' to 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/Textures/darkWood_MatDoor.uasset'
+[2023.07.07-19.34.12:835][928]AssetCheck: New page: Asset Save: darkWood_MatDoor
+[2023.07.07-19.34.12:835][928]LogContentValidation: Display: Validating Material /Game/Textures/darkWood_MatDoor.darkWood_MatDoor
+[2023.07.07-19.34.12:836][928]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.07.07-19.34.12:836][928]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.07.07-19.34.12:837][928]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.07.07-19.34.12:837][928]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.07-19.34.12:837][928]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.34.12:837][928]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.34.27:523][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2023.07.07-19.34.28:424][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2023.07.07-19.34.29:048][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2023.07.07-19.34.34:234][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2023.07.07-19.34.34:283][333]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent1)
+[2023.07.07-19.34.39:324][932]Cmd: TRANSACTION UNDO
+[2023.07.07-19.34.39:324][932]LogEditorTransaction: Undo Move Components
+[2023.07.07-19.34.39:326][932]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3C7DD74C06EE6A9A1F7C28BE157322129FD48A9C), compiling. 
+[2023.07.07-19.34.39:332][932]LogMaterial: Display: Missing cached shadermap for darkWood_MatDoor in PCD3D_SM5, Default, SM5 (DDC key hash: B196CA9EA48AA2D5A02133FA3B5035FF9FBC1CB7), compiling. 
+[2023.07.07-19.34.39:336][932]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.34.39:336][932]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.34.39:336][932]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.34.39:336][932]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.34.39:336][932]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.34.39:336][932]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.34.39:410][935]MaterialEditorStats: Base pass shader: 121 instructions
+[2023.07.07-19.34.39:410][935]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2023.07.07-19.34.39:410][935]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.07.07-19.34.39:410][935]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.34.39:410][935]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.34.39:410][935]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.34.39:410][935]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.07.07-19.34.39:410][935]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.07.07-19.34.39:410][935]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.07.07-19.34.39:410][935]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.34.39:410][935]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.34.39:410][935]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.34.39:760][958]Cmd: DUPLICATE
+[2023.07.07-19.34.39:760][958]Cmd: ACTOR DUPLICATE
+[2023.07.07-19.34.43:231][364]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2023.07.07-19.34.44:137][470]Cmd: DUPLICATE
+[2023.07.07-19.34.44:137][470]Cmd: ACTOR DUPLICATE
+[2023.07.07-19.34.49:920][146]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent3)
+[2023.07.07-19.34.58:188][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
+[2023.07.07-19.35.00:653][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2023.07.07-19.35.14:256][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2023.07.07-19.35.18:725][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2023.07.07-19.35.28:104][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2023.07.07-19.35.30:331][956]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube17)
+[2023.07.07-19.35.31:516][ 92]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube18)
+[2023.07.07-19.35.32:508][208]Cmd: DUPLICATE
+[2023.07.07-19.35.32:508][208]Cmd: ACTOR DUPLICATE
+[2023.07.07-19.35.39:337][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2023.07.07-19.35.45:878][782]Cmd: TRANSACTION UNDO
+[2023.07.07-19.35.45:879][782]LogEditorTransaction: Undo Set Location
+[2023.07.07-19.35.45:880][782]LogMaterial: Display: Missing cached shadermap for darkWood_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 6F5182B2CEA85596F0644331501A66FC4BFBC2D8), compiling. 
+[2023.07.07-19.35.45:881][782]LogMaterial: Display: Missing cached shadermap for darkWood_MatDoor in PCD3D_SM5, Default, SM5 (DDC key hash: E8A30B5BA92EE2E271584B67ED6855CB009E87F4), compiling. 
+[2023.07.07-19.35.45:885][782]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.35.45:885][782]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.35.45:885][782]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.35.45:885][782]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.35.45:885][782]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.35.45:885][782]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.35.45:920][784]MaterialEditorStats: Base pass shader: 121 instructions
+[2023.07.07-19.35.45:920][784]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2023.07.07-19.35.45:920][784]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.07.07-19.35.45:920][784]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.35.45:920][784]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.35.45:920][784]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.35.45:920][784]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.07.07-19.35.45:920][784]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.07.07-19.35.45:920][784]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.07.07-19.35.45:920][784]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.35.45:920][784]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.35.45:920][784]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.35.52:258][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube20)
+[2023.07.07-19.36.05:831][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2023.07.07-19.36.18:029][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.07.07-19.36.18:047][567]LogSavePackage: Moving 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Saved/FirstPersonExampleMap305320D640269F57A157FF874E0BE12A.tmp' to 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-19.36.18:283][567]LogSavePackage: Moving 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Saved/FirstPersonExampleMap_BuiltData95D74F79457D8F3AA2168583B0746D46.tmp' to 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-19.36.18:290][567]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-19.36.18:290][567]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-19.36.18:290][567]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
