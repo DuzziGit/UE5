@@ -3026,3 +3026,174 @@ Please see Output Log for details.
 [2023.07.07-19.36.18:290][567]AssetCheck: New page: Asset Save: multiple assets
 [2023.07.07-19.36.18:290][567]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2023.07.07-19.36.18:290][567]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-19.36.58:223][847]LogContentBrowser: Deferred new asset file creation: darkWood_MatDoor1
+[2023.07.07-19.36.58:229][847]LogContentBrowser: Creating deferred item: darkWood_MatDoor1
+[2023.07.07-19.36.58:666][900]LogContentBrowser: Attempting asset rename: darkWood_MatDoor1 -> darkWood_MatDoor1
+[2023.07.07-19.36.58:667][900]LogMaterial: Display: Missing cached shadermap for darkWood_MatDoor1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0D969ECFBF7EB66546A57D3F74F420AF3407A49F), compiling. 
+[2023.07.07-19.36.58:674][900]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2023.07.07-19.36.58:674][900]LogContentBrowser: End creating deferred item darkWood_MatDoor1
+[2023.07.07-19.36.58:680][901]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.07.07-19.36.58:680][901]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.07.07-19.36.58:680][901]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 14
+[2023.07.07-19.36.58:680][901]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 12
+[2023.07.07-19.36.58:680][901]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2023.07.07-19.36.58:680][901]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2023.07.07-19.36.58:680][901]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2023.07.07-19.36.58:680][901]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2023.07.07-19.36.58:680][901]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.07.07-19.36.58:680][901]LogShaderCompilers: Display: Started 14 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-19.36.58:680][901]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.37.04:370][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.07.07-19.37.05:374][554]LogSlate: Window 'Delete Assets' being destroyed
+[2023.07.07-19.37.05:409][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.07.07-19.37.06:313][658]LogContentBrowser: Deferred new asset file creation: darkWood_MatDoor1
+[2023.07.07-19.37.06:318][658]LogContentBrowser: Creating deferred item: darkWood_MatDoor1
+[2023.07.07-19.37.09:764][ 72]LogContentBrowser: Attempting asset rename: darkWood_MatDoor1 -> wallPaper
+[2023.07.07-19.37.09:765][ 72]LogMaterial: Display: Missing cached shadermap for wallPaper in PCD3D_SM5, Default, SM5 (DDC key hash: 60D431F19C4F8129629DAC9EA1D23E93E10FA67F), compiling. 
+[2023.07.07-19.37.09:773][ 72]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2023.07.07-19.37.09:773][ 72]LogContentBrowser: End creating deferred item darkWood_MatDoor1
+[2023.07.07-19.37.09:778][ 73]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.07.07-19.37.09:778][ 73]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.07.07-19.37.09:778][ 73]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 14
+[2023.07.07-19.37.09:778][ 73]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 12
+[2023.07.07-19.37.09:778][ 73]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2023.07.07-19.37.09:778][ 73]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2023.07.07-19.37.09:778][ 73]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2023.07.07-19.37.09:778][ 73]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2023.07.07-19.37.09:778][ 73]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.07.07-19.37.09:778][ 73]LogShaderCompilers: Display: Started 14 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-19.37.09:778][ 73]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.37.10:135][102]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.07-19.37.10:135][102]LogShaderCompilers: Display: Total job queries 492, among them cache hits 277 (56.30%)
+[2023.07.07-19.37.10:135][102]LogShaderCompilers: Display: Tracking 177 distinct input hashes that result in 77 distinct outputs (43.50%)
+[2023.07.07-19.37.10:135][102]LogShaderCompilers: Display: RAM used: 0.43 MB (0.00 GB) of 2457.60 MB (2.40 GB) budget. Usage: 0.02%
+[2023.07.07-19.37.10:135][102]LogShaderCompilers: Display: ================================================
+[2023.07.07-19.37.12:785][173]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Textures/wallPaper.wallPaper
+[2023.07.07-19.37.12:786][173]LogMaterial: Display: Missing cached shadermap for wallPaper in PCD3D_SM5, Default, SM5 (DDC key hash: 59E39B1A0124EDFAF10C569623AEDF054B33B19B), compiling. 
+[2023.07.07-19.37.12:835][173]LogMaterial: Display: Missing cached shadermap for wallPaper in PCD3D_SM5, Default, SM5 (DDC key hash: 71B6A4A204606B65F95E18733A6B9BB51477605B), compiling. 
+[2023.07.07-19.37.12:836][173]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A2418FD985E67171EE5D04AE0CE9CFE6DAC0F17A), compiling. 
+[2023.07.07-19.37.12:852][173]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.37.12:852][173]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.37.12:852][173]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.37.12:924][174]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.07.07-19.37.12:924][174]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.07.07-19.37.12:924][174]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.07.07-19.37.12:924][174]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.37.12:924][174]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.07.07-19.37.12:924][174]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.07-19.37.18:431][818]LogMaterial: Display: Missing cached shadermap for wallPaper in PCD3D_SM5, Default, SM5 (DDC key hash: 50FAAB53C94F5A72B0DFF242B3B11A90C0C9DBA9), compiling. 
+[2023.07.07-19.37.18:432][818]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.37.18:458][819]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.37.18:458][819]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.07.07-19.37.18:458][819]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.07.07-19.37.18:458][819]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.37.18:458][819]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.07.07-19.37.18:458][819]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2023.07.07-19.37.18:458][819]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2023.07.07-19.37.18:458][819]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2023.07.07-19.37.18:459][819]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2023.07.07-19.37.18:459][819]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2023.07.07-19.37.18:459][819]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2023.07.07-19.37.18:459][819]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.07.07-19.37.18:459][819]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.07.07-19.37.18:459][819]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-19.37.19:056][873]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.37.19:190][889]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.07.07-19.37.19:190][889]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.07.07-19.37.19:190][889]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.07.07-19.37.19:190][889]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.37.54:583][897]LogMaterial: Display: Missing cached shadermap for wallPaper in PCD3D_SM5, Default, SM5 (DDC key hash: 1E06AF38B1557EC815194564010A115F81C38F4E), compiling. 
+[2023.07.07-19.37.54:586][897]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4146C3F1CB38D268B211DD0058AF644B5C8FF6B6), compiling. 
+[2023.07.07-19.37.54:587][897]LogMaterial: Display: Missing cached shadermap for wallPaper in PCD3D_SM5, Default, SM5 (DDC key hash: FE1B9E78257CA2C07D9A2C2102B62FAEACCB66C6), compiling. 
+[2023.07.07-19.37.54:588][897]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0808CB7D32E0DDC4659C94AADC7FF5AE16A4586F), compiling. 
+[2023.07.07-19.37.54:591][897]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.37.54:623][898]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.37.54:623][898]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.07.07-19.37.54:623][898]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.07.07-19.37.54:623][898]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.37.54:623][898]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.07.07-19.37.54:623][898]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2023.07.07-19.37.54:623][898]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2023.07.07-19.37.54:623][898]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2023.07.07-19.37.54:623][898]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2023.07.07-19.37.54:623][898]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2023.07.07-19.37.54:623][898]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2023.07.07-19.37.54:623][898]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.07.07-19.37.54:623][898]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.07.07-19.37.54:623][898]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-19.37.54:640][899]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.37.54:697][905]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2023.07.07-19.37.54:697][905]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2023.07.07-19.37.54:697][905]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.37.55:503][970]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.37.55:635][984]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.07.07-19.37.55:635][984]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.07.07-19.37.55:635][984]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.07.07-19.37.55:635][984]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.37.59:197][282]LogSlate: Window 'Color Picker' being destroyed
+[2023.07.07-19.38.02:003][589]LogMaterial: Display: Missing cached shadermap for wallPaper in PCD3D_SM5, Default, SM5 (DDC key hash: CC34B75A0C292498322A001341EAB4C7F609148D), compiling. 
+[2023.07.07-19.38.02:004][589]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 63B1C035BF257DC0A10902AE117EEFA2BEF60DB9), compiling. 
+[2023.07.07-19.38.02:007][589]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.38.02:023][591]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.38.02:035][592]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.07.07-19.38.02:035][592]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.07.07-19.38.02:035][592]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.07.07-19.38.02:035][592]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.38.03:766][733]LogMaterial: Display: Missing cached shadermap for wallPaper in PCD3D_SM5, Default, SM5 (DDC key hash: B4074D293442AB94F4A655B86E696D208CC3C50C), compiling. 
+[2023.07.07-19.38.03:768][733]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A41AE4354A597D107049CFB13B4B1CAE7F1AE526), compiling. 
+[2023.07.07-19.38.03:770][733]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.38.03:790][735]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.38.03:804][736]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.07.07-19.38.03:804][736]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.07.07-19.38.03:804][736]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.07.07-19.38.03:804][736]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.38.05:323][914]LogMaterial: Display: Missing cached shadermap for wallPaper in PCD3D_SM5, Default, SM5 (DDC key hash: 4130C30CA53524A3E8FBB502FA2B9BF4820A5808), compiling. 
+[2023.07.07-19.38.05:325][914]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D2226EF754458883FDD391270F282BC45730A0B6), compiling. 
+[2023.07.07-19.38.05:327][914]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.38.05:344][916]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.38.05:357][917]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.07.07-19.38.05:357][917]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.07.07-19.38.05:357][917]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.07.07-19.38.05:357][917]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.38.07:181][ 94]LogMaterial: Display: Missing cached shadermap for wallPaper in PCD3D_SM5, Default, SM5 (DDC key hash: 517D380DCD618669799C001608CD20B821EB4B98), compiling. 
+[2023.07.07-19.38.07:183][ 94]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 300543CB1EDC6ADF730681C625F7F3C50ABCEEDE), compiling. 
+[2023.07.07-19.38.07:185][ 94]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.38.07:208][ 96]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.07.07-19.38.07:208][ 96]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.07.07-19.38.07:208][ 96]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.07.07-19.38.07:208][ 96]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.38.08:682][263]LogMaterial: Display: Missing cached shadermap for wallPaper in PCD3D_SM5, Default, SM5 (DDC key hash: 61881D339CD3F42D6ED3A57BA3D39D8FE4AD022D), compiling. 
+[2023.07.07-19.38.08:683][263]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 840268E9CD06512A76E395BE81AB88B2207E6455), compiling. 
+[2023.07.07-19.38.08:685][263]LogSlate: Window 'Color Picker' being destroyed
+[2023.07.07-19.38.08:690][263]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.38.08:708][265]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.38.08:719][266]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.07.07-19.38.08:719][266]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.07.07-19.38.08:719][266]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.07.07-19.38.08:719][266]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.38.12:030][635]LogMaterialEditor: Saving and Compiling material wallPaper
+[2023.07.07-19.38.12:278][635]LogMaterial: Display: Missing cached shadermap for wallPaper in PCD3D_SM5, Default, SM5 (DDC key hash: 337AB2C0EAE9066B814BA31301DFE231F7FDF93A), compiling. 
+[2023.07.07-19.38.12:295][635]LogMaterial: Display: Missing cached shadermap for wallPaper in PCD3D_SM5, Default, SM5 (DDC key hash: 734B14486B860542A1D340C25140D431541C52FD), compiling. 
+[2023.07.07-19.38.12:321][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.07.07-19.38.12:324][635]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.38.12:537][635]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2023.07.07-19.38.12:537][635]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.38.12:537][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.07.07-19.38.12:569][635]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2023.07.07-19.38.12:574][635]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2023.07.07-19.38.12:574][635]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2023.07.07-19.38.12:574][635]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2023.07.07-19.38.12:574][635]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2023.07.07-19.38.12:574][635]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2023.07.07-19.38.12:574][635]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-19.38.12:588][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/wallPaper" FILE="C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/Textures/wallPaper.uasset" SILENT=true
+[2023.07.07-19.38.12:594][635]LogSavePackage: Moving 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Saved/wallPaper19B2B466408072F5B36CE19BC9A4F529.tmp' to 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/Textures/wallPaper.uasset'
+[2023.07.07-19.38.12:606][635]AssetCheck: New page: Asset Save: wallPaper
+[2023.07.07-19.38.12:606][635]LogContentValidation: Display: Validating Material /Game/Textures/wallPaper.wallPaper
+[2023.07.07-19.38.12:610][635]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.38.13:052][678]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.38.13:060][679]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.07.07-19.38.13:061][679]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.07.07-19.38.13:061][679]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.07.07-19.38.13:061][679]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.38.36:796][235]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
