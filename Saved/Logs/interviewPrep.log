@@ -3197,3 +3197,307 @@ Please see Output Log for details.
 [2023.07.07-19.38.13:061][679]MaterialEditorStats: Base pass vertex shader: 42 instructions
 [2023.07.07-19.38.13:061][679]MaterialEditorStats: Texture samplers: 3/16
 [2023.07.07-19.38.36:796][235]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.07.07-19.39.28:773][179]LogActorFactory: Actor Factory created Plane
+[2023.07.07-19.39.29:681][257]LogActorFactory: Actor Factory created Plane
+[2023.07.07-19.39.30:174][309]LogActorFactory: Actor Factory created Plane
+[2023.07.07-19.39.58:823][520]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.07-19.40.48:438][228]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\dante\OneDrive\Desktop\Windows.old\Users\dante\Pictures\220px-Overwatch_cover_art.jpg)
+[2023.07.07-19.40.48:440][228]LogTexture: Display: Building textures: 220px-Overwatch_cover_art (BGRA8, 220X314)
+[2023.07.07-19.40.52:439][402]LogMaterial: Display: Missing cached shadermap for 220px-Overwatch_cover_art_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 47ACDEE53EB756937F66ED77129A316B01A12447), compiling. 
+[2023.07.07-19.40.52:454][403]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.40.52:454][403]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.07.07-19.40.52:457][403]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.07.07-19.40.52:457][403]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.07.07-19.40.52:457][403]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 14
+[2023.07.07-19.40.52:457][403]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 12
+[2023.07.07-19.40.52:457][403]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2023.07.07-19.40.52:457][403]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2023.07.07-19.40.52:457][403]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2023.07.07-19.40.52:457][403]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2023.07.07-19.40.52:457][403]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.07.07-19.40.52:457][403]LogShaderCompilers: Display: Started 14 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-19.40.52:457][403]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.40.52:907][420]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.07-19.40.52:907][420]LogShaderCompilers: Display: Total job queries 654, among them cache hits 395 (60.40%)
+[2023.07.07-19.40.52:907][420]LogShaderCompilers: Display: Tracking 221 distinct input hashes that result in 95 distinct outputs (42.99%)
+[2023.07.07-19.40.52:907][420]LogShaderCompilers: Display: RAM used: 0.54 MB (0.00 GB) of 2457.60 MB (2.40 GB) budget. Usage: 0.02%
+[2023.07.07-19.40.52:907][420]LogShaderCompilers: Display: ================================================
+[2023.07.07-19.41.05:194][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.07.07-19.41.05:210][873]LogSavePackage: Moving 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Saved/FirstPersonExampleMapF2D16E5C4F742DD0CE71E5908FC58675.tmp' to 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-19.41.05:449][873]LogSavePackage: Moving 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Saved/FirstPersonExampleMap_BuiltDataEA8149DD43DF599B14DFDF87658E8EAA.tmp' to 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-19.41.05:458][873]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-19.41.05:459][873]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-19.41.05:459][873]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-19.41.25:029][774]LogActorFactory: Actor Factory created Cube
+[2023.07.07-19.41.27:872][ 98]LogActorFactory: Actor Factory created Cube
+[2023.07.07-19.41.28:327][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2023.07.07-19.41.39:051][347]LogContentBrowser: Deferred new asset file creation: wallPaper1
+[2023.07.07-19.41.39:062][347]LogContentBrowser: Creating deferred item: wallPaper1
+[2023.07.07-19.41.41:529][630]LogContentBrowser: Attempting asset rename: wallPaper1 -> lamp
+[2023.07.07-19.41.41:532][630]LogMaterial: Display: Missing cached shadermap for lamp in PCD3D_SM5, Default, SM5 (DDC key hash: B0153C7AD782BF771DCA3331E76589693F7FA4FC), compiling. 
+[2023.07.07-19.41.41:543][630]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2023.07.07-19.41.41:543][630]LogContentBrowser: End creating deferred item wallPaper1
+[2023.07.07-19.41.41:553][631]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 16
+[2023.07.07-19.41.41:553][631]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 14
+[2023.07.07-19.41.41:553][631]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2023.07.07-19.41.41:553][631]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2023.07.07-19.41.41:553][631]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2023.07.07-19.41.41:553][631]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2023.07.07-19.41.41:553][631]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2023.07.07-19.41.41:553][631]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2023.07.07-19.41.41:553][631]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2023.07.07-19.41.42:993][734]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Textures/lamp.lamp
+[2023.07.07-19.41.42:994][734]LogMaterial: Display: Missing cached shadermap for lamp in PCD3D_SM5, Default, SM5 (DDC key hash: 22CAD6F5A5688FA404BB56AD67E35C2808F89011), compiling. 
+[2023.07.07-19.41.43:052][734]LogMaterial: Display: Missing cached shadermap for lamp in PCD3D_SM5, Default, SM5 (DDC key hash: CA2F0418E1CEBBCC56D83D014858BA4522C69EF3), compiling. 
+[2023.07.07-19.41.43:053][734]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 07ACE8475DE5877E3014E52046AC679119F0EAAC), compiling. 
+[2023.07.07-19.41.43:066][734]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.41.43:118][735]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.07.07-19.41.43:118][735]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.07.07-19.41.43:118][735]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.07.07-19.41.43:118][735]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.41.47:875][256]LogMaterial: Display: Missing cached shadermap for lamp in PCD3D_SM5, Default, SM5 (DDC key hash: C7A29FFC43B0FBE77A0C4CA82654CCBFBC21891D), compiling. 
+[2023.07.07-19.41.47:877][256]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6925B760C5DDDE35088D1C5578F5C62391830278), compiling. 
+[2023.07.07-19.41.47:879][256]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.41.47:896][258]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.41.47:910][259]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.07.07-19.41.47:910][259]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.07.07-19.41.47:910][259]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.07.07-19.41.47:910][259]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.41.48:808][363]LogMaterial: Display: Missing cached shadermap for lamp in PCD3D_SM5, Default, SM5 (DDC key hash: 54F6CA65F33AE80DD143CE726B06786CED930F20), compiling. 
+[2023.07.07-19.41.48:810][363]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5D75B9EC5B1397E7CB92CFC7B3AD93CD08C49120), compiling. 
+[2023.07.07-19.41.48:812][363]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.41.48:828][365]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.41.48:839][366]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.07.07-19.41.48:839][366]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.07.07-19.41.48:839][366]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.07.07-19.41.48:839][366]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.41.49:397][433]LogMaterial: Display: Missing cached shadermap for lamp in PCD3D_SM5, Default, SM5 (DDC key hash: 0ECB7160BA75852AF8CF3A88F556F85BA0B1F95C), compiling. 
+[2023.07.07-19.41.49:400][433]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2E8107A36E38C0B06A60C7DA4FF9275C852E2B84), compiling. 
+[2023.07.07-19.41.49:403][433]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.41.49:419][435]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.41.49:431][436]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.07.07-19.41.49:431][436]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.07.07-19.41.49:431][436]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.07.07-19.41.49:431][436]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.41.49:882][490]LogMaterial: Display: Missing cached shadermap for lamp in PCD3D_SM5, Default, SM5 (DDC key hash: 7B1AAD0D0F79854E4A9AE7876CD862F8136902A3), compiling. 
+[2023.07.07-19.41.49:883][490]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 90E6A439B7141369469F6774364741476AE80736), compiling. 
+[2023.07.07-19.41.49:886][490]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.41.49:904][492]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.41.49:915][493]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.07.07-19.41.49:915][493]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.07.07-19.41.49:915][493]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.07.07-19.41.49:915][493]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.41.53:379][904]LogMaterial: Display: Missing cached shadermap for lamp in PCD3D_SM5, Default, SM5 (DDC key hash: CD7E7C1968C328651F4F5917CF80666B203F1385), compiling. 
+[2023.07.07-19.41.53:380][904]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A415508F0E2251F1FBC280D45FA7C82DB5E16FE4), compiling. 
+[2023.07.07-19.41.53:381][904]LogSlate: Window 'Color Picker' being destroyed
+[2023.07.07-19.41.53:388][904]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.41.53:404][906]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.41.53:415][907]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.07.07-19.41.53:416][907]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.07.07-19.41.53:416][907]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.07.07-19.41.53:416][907]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.41.59:036][499]LogMaterial: Display: Missing cached shadermap for lamp in PCD3D_SM5, Default, SM5 (DDC key hash: 6EC43B35C6BF11E8A8041D37A732C9A39E906AAB), compiling. 
+[2023.07.07-19.41.59:038][499]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 099801C4C7FBA4E5E813E0DCA09665FFE4F63AD4), compiling. 
+[2023.07.07-19.41.59:039][499]LogMaterial: Display: Missing cached shadermap for lamp in PCD3D_SM5, Default, SM5 (DDC key hash: 757B4A14A7711FEB96F10C2ADDE7C3755EBB82FE), compiling. 
+[2023.07.07-19.41.59:041][499]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: B1A4112190A12A6199FBCAF88B97BE8FAA9AF8E1), compiling. 
+[2023.07.07-19.41.59:044][499]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.41.59:066][500]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.41.59:066][500]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.07.07-19.41.59:066][500]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.07.07-19.41.59:066][500]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.41.59:066][500]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.07.07-19.41.59:066][500]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2023.07.07-19.41.59:066][500]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2023.07.07-19.41.59:066][500]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2023.07.07-19.41.59:066][500]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2023.07.07-19.41.59:066][500]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2023.07.07-19.41.59:066][500]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2023.07.07-19.41.59:066][500]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.07.07-19.41.59:066][500]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.07.07-19.41.59:066][500]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-19.41.59:088][501]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.41.59:109][502]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2023.07.07-19.41.59:109][502]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2023.07.07-19.41.59:109][502]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.41.59:802][550]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.41.59:975][560]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.07.07-19.41.59:975][560]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.07.07-19.41.59:975][560]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.07.07-19.41.59:975][560]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.42.09:830][500]LogMaterial: Display: Missing cached shadermap for lamp in PCD3D_SM5, Default, SM5 (DDC key hash: C8FDED9A2B568EFD6298FE68FC649848799A694F), compiling. 
+[2023.07.07-19.42.09:832][500]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.42.09:865][502]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.07.07-19.42.09:865][502]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.07.07-19.42.09:865][502]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.07.07-19.42.09:865][502]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.42.10:689][569]LogMaterial: Display: Missing cached shadermap for lamp in PCD3D_SM5, Default, SM5 (DDC key hash: BDDD3B5AA03C67FE90B2487552F4DA1C0F817028), compiling. 
+[2023.07.07-19.42.10:690][569]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F53CF89CC15B87357AFE21F243F6489129BCCC58), compiling. 
+[2023.07.07-19.42.10:691][569]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 98ADD0FC37F4C1BBF25ABD1ED3AFD395D6B87F22), compiling. 
+[2023.07.07-19.42.10:696][569]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.42.10:723][571]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.42.10:723][571]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.07.07-19.42.10:723][571]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.07.07-19.42.10:723][571]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.42.10:728][571]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.07.07-19.42.10:728][571]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.07.07-19.42.10:728][571]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.07.07-19.42.10:728][571]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.42.17:136][201]LogMaterial: Display: Missing cached shadermap for lamp in PCD3D_SM5, Default, SM5 (DDC key hash: E4BA8F6E915AB7987245BEF319FD19BD96DBA1F1), compiling. 
+[2023.07.07-19.42.17:138][201]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_2 in PCD3D_SM5, Default, SM5 (DDC key hash: D7FF3F2C650E5E9AE10F8622F18F626EB19FED62), compiling. 
+[2023.07.07-19.42.17:139][201]LogMaterial: Display: Missing cached shadermap for lamp in PCD3D_SM5, Default, SM5 (DDC key hash: F141C8958E68A4FBB4851E65008ED458E0B30C67), compiling. 
+[2023.07.07-19.42.17:140][201]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 09BF50B417E1FAA6437996AAAB92EDCF6A6E6C69), compiling. 
+[2023.07.07-19.42.17:145][201]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.42.17:173][203]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.07.07-19.42.17:173][203]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.07.07-19.42.17:173][203]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.07.07-19.42.17:173][203]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.42.20:627][528]LogMaterial: Display: Missing cached shadermap for lamp in PCD3D_SM5, Default, SM5 (DDC key hash: 6D3AE4D0F66E211C770358E0568990F146C642CC), compiling. 
+[2023.07.07-19.42.20:632][528]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.42.20:637][529]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.42.20:637][529]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.07.07-19.42.20:637][529]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.07.07-19.42.20:637][529]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.42.20:652][530]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.07.07-19.42.20:652][530]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2023.07.07-19.42.20:652][530]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2023.07.07-19.42.20:652][530]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2023.07.07-19.42.20:652][530]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2023.07.07-19.42.20:652][530]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2023.07.07-19.42.20:652][530]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2023.07.07-19.42.20:652][530]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.07.07-19.42.20:652][530]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.07.07-19.42.20:652][530]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-19.42.21:268][580]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.42.21:532][598]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.07.07-19.42.21:532][598]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.07.07-19.42.21:532][598]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.07.07-19.42.21:532][598]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.42.26:603][161]LogMaterial: Display: Missing cached shadermap for lamp in PCD3D_SM5, Default, SM5 (DDC key hash: 08641A54E7E27205EB11FFE715FF0B8C075472D8), compiling. 
+[2023.07.07-19.42.26:605][161]LogMaterial: Display: Missing cached shadermap for lamp in PCD3D_SM5, Default, SM5 (DDC key hash: B8494DB539FC26C831311EDF5173E542CC994C98), compiling. 
+[2023.07.07-19.42.26:608][161]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.42.26:624][163]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.42.26:635][164]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.07.07-19.42.26:635][164]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.07.07-19.42.26:635][164]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.07.07-19.42.26:635][164]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.42.29:728][511]LogMaterial: Display: Missing cached shadermap for lamp in PCD3D_SM5, Default, SM5 (DDC key hash: 43F61643B08F8D967B0BAB58995B8796061BC567), compiling. 
+[2023.07.07-19.42.29:729][511]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_2 in PCD3D_SM5, Default, SM5 (DDC key hash: EFD7A2C1749573D055C71F74C639C5808CE5A36C), compiling. 
+[2023.07.07-19.42.29:732][511]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.42.29:748][513]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.42.29:762][514]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.07.07-19.42.29:762][514]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.07.07-19.42.29:762][514]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.07.07-19.42.29:762][514]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.42.31:197][681]LogMaterial: Display: Missing cached shadermap for lamp in PCD3D_SM5, Default, SM5 (DDC key hash: 2BD358FD9987ED976C919DF5BCB50F2A4A9D8173), compiling. 
+[2023.07.07-19.42.31:199][681]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_2 in PCD3D_SM5, Default, SM5 (DDC key hash: A19369C6639FB17A0A3201CB98FD8478BADFE9EE), compiling. 
+[2023.07.07-19.42.31:200][681]LogSlate: Window 'Color Picker' being destroyed
+[2023.07.07-19.42.31:207][681]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.42.31:225][683]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.42.31:238][684]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.07.07-19.42.31:238][684]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.07.07-19.42.31:238][684]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.07.07-19.42.31:238][684]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.42.34:499][ 61]LogMaterialEditor: Saving and Compiling material lamp
+[2023.07.07-19.42.34:744][ 61]LogMaterial: Display: Missing cached shadermap for lamp in PCD3D_SM5, Default, SM5 (DDC key hash: 955E92AAD3D00B5A01D2BE60ACD9E06C6D0FF18B), compiling. 
+[2023.07.07-19.42.34:763][ 61]LogMaterial: Display: Missing cached shadermap for lamp in PCD3D_SM5, Default, SM5 (DDC key hash: F0448F205F8D22599E736E0BB8B1C6C0851A514F), compiling. 
+[2023.07.07-19.42.34:789][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.07.07-19.42.34:792][ 61]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.42.35:006][ 61]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2023.07.07-19.42.35:006][ 61]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.07-19.42.35:006][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.07.07-19.42.35:038][ 61]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2023.07.07-19.42.35:045][ 61]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2023.07.07-19.42.35:045][ 61]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2023.07.07-19.42.35:045][ 61]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2023.07.07-19.42.35:045][ 61]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2023.07.07-19.42.35:045][ 61]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2023.07.07-19.42.35:045][ 61]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-19.42.35:057][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/lamp" FILE="C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/Textures/lamp.uasset" SILENT=true
+[2023.07.07-19.42.35:063][ 61]LogSavePackage: Moving 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Saved/lamp1AF913F04C0233B7331DD28811394B2A.tmp' to 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/Textures/lamp.uasset'
+[2023.07.07-19.42.35:075][ 61]AssetCheck: New page: Asset Save: lamp
+[2023.07.07-19.42.35:075][ 61]LogContentValidation: Display: Validating Material /Game/Textures/lamp.lamp
+[2023.07.07-19.42.35:081][ 61]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.42.35:519][105]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.42.35:528][106]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.07.07-19.42.35:528][106]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.07.07-19.42.35:528][106]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.07.07-19.42.35:528][106]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.42.43:555][963]LogMaterial: Display: Missing cached shadermap for lamp in PCD3D_SM5, Default, SM5 (DDC key hash: 07669DCADC823E7375277FBB400C74072DB0F959), compiling. 
+[2023.07.07-19.42.43:557][963]LogMaterial: Display: Missing cached shadermap for lamp in PCD3D_SM5, Default, SM5 (DDC key hash: D827225B1906B34552B9883C2C51DADB99826227), compiling. 
+[2023.07.07-19.42.43:559][963]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-19.42.43:582][965]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.07.07-19.42.43:582][965]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.07.07-19.42.43:582][965]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.07.07-19.42.43:582][965]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.07-19.42.43:869][992]LogMaterialEditor: Saving and Compiling material lamp
+[2023.07.07-19.42.44:112][992]LogMaterial: Display: Missing cached shadermap for lamp in PCD3D_SM5, Default, SM5 (DDC key hash: 880AF705F1C59FA13E7B07C51755FE56E1CF4980), compiling. 
+[2023.07.07-19.42.44:135][992]LogMaterial: Display: Missing cached shadermap for lamp in PCD3D_SM5, Default, SM5 (DDC key hash: FBA5ADF1BDF135FB8ED2435681C31144A2D3B951), compiling. 
+[2023.07.07-19.42.44:142][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.07.07-19.42.44:260][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.07.07-19.42.44:299][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/lamp" FILE="C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/Textures/lamp.uasset" SILENT=true
+[2023.07.07-19.42.44:303][992]LogSavePackage: Moving 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Saved/lamp5E3072204963D44A60E49DBA9997CE21.tmp' to 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/Textures/lamp.uasset'
+[2023.07.07-19.42.44:313][992]AssetCheck: New page: Asset Save: lamp
+[2023.07.07-19.42.44:313][992]LogContentValidation: Display: Validating Material /Game/Textures/lamp.lamp
+[2023.07.07-19.42.44:314][992]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.07.07-19.42.44:314][992]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.07.07-19.42.44:314][992]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.07.07-19.42.44:314][992]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.07-19.42.50:048][605]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.07-19.42.50:053][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-19.42.50:053][605]PIE: New page: PIE session: FirstPersonExampleMap (Jul. 7, 2023, 11:42:50 a.m.)
+[2023.07.07-19.42.50:076][605]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-19.42.50:087][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010971s)
+[2023.07.07-19.42.50:088][605]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.07.07-19.42.50:089][605]LogPlayLevel: PIE: World Init took: (0.001276s)
+[2023.07.07-19.42.50:089][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012474s)
+[2023.07.07-19.42.50:094][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.07.07-19.42.50:095][605]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.07.07-19.42.50:095][605]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-19.42.50:095][605]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-19.42.50:095][605]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-19.42.50:095][605]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-19.42.50:095][605]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.07-19.42.50:095][605]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.07-19.42.50:095][605]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.07-19.42.50:095][605]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-19.42.50:096][605]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-19.42.50:096][605]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-19.42.50:096][605]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-19.42.50:096][605]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.07-19.42.50:102][605]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.07-19.42.50:102][605]LogAudioMixer: Display: 1: FrontRight
+[2023.07.07-19.42.50:111][605]LogAudioMixer: Display: Using Audio Device Speakers (HyperX QuadCast S)
+[2023.07.07-19.42.50:111][605]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-19.42.50:111][605]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-19.42.50:111][605]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-19.42.50:111][605]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.07-19.42.50:111][605]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.07-19.42.50:111][605]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.07-19.42.50:112][605]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.07-19.42.50:112][605]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.07-19.42.50:112][605]LogInit: FAudioDevice initialized.
+[2023.07.07-19.42.50:112][605]LogAudio: Display: Audio Device (ID: 15) registered with world 'FirstPersonExampleMap'.
+[2023.07.07-19.42.50:125][605]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.07.07-19.42.50:127][605]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.07.07-15.42.50
+[2023.07.07-19.42.50:127][605]LogWorld: Bringing up level for play took: 0.001840
+[2023.07.07-19.42.50:128][605]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2023.07.07-19.42.50:129][605]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.07.07-19.42.50:131][605]PIE: Server logged in
+[2023.07.07-19.42.50:132][605]PIE: Play in editor total start time 0.079 seconds.
+[2023.07.07-19.43.06:988][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-19.43.06:988][620]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-19.43.06:988][620]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-19.43.06:988][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-19.43.06:994][620]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-19.43.07:009][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-19.43.07:015][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-19.43.07:015][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-19.43.07:016][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-19.43.07:022][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.07.07-19.43.07:064][622]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.07.07-19.43.07:913][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.07.07-19.43.07:930][721]LogSavePackage: Moving 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Saved/FirstPersonExampleMap3BAA4FBE497CD45686D02EA4FA57CAD3.tmp' to 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-19.43.08:186][721]LogSavePackage: Moving 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Saved/FirstPersonExampleMap_BuiltDataD0C731DB4D5E9CBD7F0026846633480C.tmp' to 'C:/Users/dante/OneDrive/Documents/Unreal Projects/interviewPrep/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-19.43.08:194][721]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-19.43.08:194][721]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-19.43.08:194][721]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
